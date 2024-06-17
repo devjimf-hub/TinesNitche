@@ -466,7 +466,7 @@ a {
 *   Home Section
 -------------------------*/
 .about-section .about-intro h6 {
-  font-size: 18px;
+  font-size: 12px;
   line-height: 1;
   color: #A67B5B;
   text-transform: uppercase;
@@ -476,12 +476,12 @@ a {
 
 .about-section .about-intro h2 {
   line-height: 1;
-  font-size: 48px;
+  font-size: 40px;
   color: #323258;
   margin-bottom: 18px; }
   @media (max-width: 1200px) {
     .about-section .about-intro h2 {
-      font-size: 40px;
+      font-size: 35px;
       margin-bottom: 14px; } }
   .about-section .about-intro h2 span {
     font-weight: 800; }
@@ -515,7 +515,7 @@ a {
     .about-section .about-intro ul {
       margin: 0 0 25px; } }
   .about-section .about-intro ul li {
-    font-size: 18px;
+    font-size: 17px;
     line-height: 1.5;
     margin-bottom: 10px; }
     @media (max-width: 1200px) {
