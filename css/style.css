@@ -29,7 +29,7 @@ Primary use:    pxdraft
   top: 0;
   left: 0;
   right: 0;
-  top: 15px;
+  top: 0px;
   z-index: 111;
   transition: ease all 0.35s; }
   @media (max-width: 991px) {
@@ -249,7 +249,7 @@ a {
     .section-heading {
       padding-bottom: 45px; } }
   .section-heading h3 {
-    margin-top: -100px;
+    margin-top: -70px;
     font-weight: 700;
     color: #7b5538;
     text-align: center;
@@ -466,7 +466,7 @@ a {
 *   Home Section
 -------------------------*/
 .about-section .about-intro h6 {
-  font-size: 12px;
+  font-size: 20px;
   line-height: 1;
   color: #A67B5B;
   text-transform: uppercase;
